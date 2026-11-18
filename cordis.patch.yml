@@ -1,0 +1,5 @@
+# my-global-rules —— bundle patch
+# Inserts one Host row; the package's `dsh.client` section adds the settings page.
+- insert:
+    - id: my-global-rules
+      name: 'my-global-rules'
