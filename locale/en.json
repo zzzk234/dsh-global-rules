@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Global rules",
+    "description": "Injects the rules text stored in rules.json beside the plugin into every system prompt, and edits it from Settings."
+  }
+}
